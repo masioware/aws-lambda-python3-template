@@ -1,0 +1,13 @@
+{
+  "name": "aws-lambda-python3-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "invoke": "serverless invoke -f index",
+    "deploy": "serverless deploy",
+    "remove": "serverless remove"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
