@@ -25,7 +25,13 @@ Before you begin, make sure you have the following prerequisites installed:
    npm install -g serverless
    ```
 
-3. Deploy the project to AWS Lambda:
+3. Install project Serverless dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Deploy the project to AWS Lambda:
    ```bash
    npm run deploy
    ```
